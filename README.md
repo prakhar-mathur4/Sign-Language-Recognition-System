@@ -1,1 +1,3 @@
 # Sign-Language-Recognition-System
+
+This project aims to close the gap between speech and the deaf and ordinary people. The basic idea of ​​this project is to create a system that uses mute people to be able to communicate significantly with all other people using their normal touch.In this case, we have created a signal detector, which receives letters from A-Y. We developed this project using opencv, keras, python, tensorflow modules. The system does not need the background to be completely black. Works on any domain. This project uses a visual processing system to visualize, especially English sign language used by deaf people to communicate and translate text for ordinary people to understand
